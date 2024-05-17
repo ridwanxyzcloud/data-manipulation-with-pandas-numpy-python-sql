@@ -47,9 +47,4 @@ Yanki Ecommerce faces challenges in effectively managing and analyzing its vast 
 - Use PostgreSQL as the database management system for storing the processed data.
 - Design and implement database schemas to accommodate the data structure and relationships.
 
-### Version Control using GitHub Desktop
-
-- Set up a GitHub repository for the project to enable version control and collaboration.
-- Use GitHub Desktop for managing code changes, branching, and merging workflows.
-
 By successfully executing these tasks, the data engineering team at Yanki Ecommerce can effectively leverage Python, NumPy, Pandas, GitHub, and PostgreSQL to optimize data processing, analysis, and decision-making processes, ultimately driving business growth and success.
